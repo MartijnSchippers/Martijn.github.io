@@ -1,3 +1,5 @@
+
+
 body {
 	color: rgb(200,200,200);
 	background-color: rgb(50,50,50);
@@ -29,4 +31,10 @@ li a{
 li a:hover{
 	background-color: #111;
 	color: white;
+}
+img {
+	float: middle;
+        position: fixed;
+	bottom: 20px;
+	right: 40%;
 }
